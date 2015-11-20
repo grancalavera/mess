@@ -1,5 +1,5 @@
 # mess
-This repo is a mess
+this repo is a mess
 
 ## things
 
